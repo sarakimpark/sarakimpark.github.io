@@ -4,12 +4,12 @@
 :root {
   --header-height: 3rem;
   /*===== Colors =====*/
-  --first-color: #303030;
-  --first-color-dark: #1f1f1f;
-  --text-color: #524748;
-  --first-color-light: #7B6F71;
-  --first-color-lighten: #e1e0e0;
-  --first-color-lightest: #fbf9f9;
+  --first-color: #e1e0e0;
+  --first-color-dark: #fbf9f9;
+  --text-color: #e1e0e0;
+  --first-color-light: #303030;
+  --first-color-lighten: #524748;
+  --first-color-lightest: #1f1f1f;
   /*===== Font and typography =====*/
   --body-font: 'Source Sans 3', sans-serif;
   --biggest-font-size: 2.5rem;
