@@ -324,7 +324,7 @@ img {
 }
 
 .home__name {
-  font-family: var(--title-font);
+  font-family: var(--header-font);
   font-size: var(--biggest-font-size);
   justify-content: center;
   align-items: center;
@@ -332,7 +332,7 @@ img {
 
 .home__greeting, .home__profession {
   display: block;
-  font-family: var(--title-font);
+  font-family: var(--header-font);
   font-weight: var(--font-bold);
   justify-content: center;
   align-items: center;
