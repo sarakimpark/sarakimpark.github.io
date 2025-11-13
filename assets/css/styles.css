@@ -1,5 +1,6 @@
 /*===== GOOGLE FONTS =====*/
 @import url('https://fonts.googleapis.com/css2?family=Source+Sans+3:ital,wght@0,400;0,500;0,600;0,700;1,300&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Playfair+Display:wght@500;600;700&display=swap');
 /*===== VARIABLES CSS =====*/
 :root {
   --header-height: 3rem;
@@ -16,6 +17,7 @@
   --h1-font-size: 1.5rem;
   --h2-font-size: 1.25rem;
   --h3-font-size: 1.125rem;
+  --header-font: 'Playfair Display', serif;
   --normal-font-size: .938rem;
   --small-font-size: .813rem;
   --smaller-font-size: .75rem;
@@ -322,6 +324,7 @@ img {
 }
 
 .home__name {
+  font-family: var(--title-font);
   font-size: var(--biggest-font-size);
   justify-content: center;
   align-items: center;
@@ -329,6 +332,7 @@ img {
 
 .home__greeting, .home__profession {
   display: block;
+  font-family: var(--title-font);
   font-weight: var(--font-bold);
   justify-content: center;
   align-items: center;
