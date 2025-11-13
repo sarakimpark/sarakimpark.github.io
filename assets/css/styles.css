@@ -330,9 +330,8 @@ img {
   align-items: center;
 }
 
-.home__greeting, .home__profession {
+.home__greeting, .home__description {
   display: block;
-  font-family: var(--header-font);
   font-weight: var(--font-bold);
   justify-content: center;
   align-items: center;
@@ -342,7 +341,7 @@ img {
   font-size: .813rem;
 }
 
-.home__profession {
+.home__description {
   font-size: .938rem;
   margin-bottom: var(--mb-3);
 }
@@ -732,7 +731,7 @@ img {
   .home__greeting {
     font-size: 1.25rem;
   }
-  .home__profession {
+  .home__description {
     font-size: 2rem;
   }
   .home__social {
