@@ -155,7 +155,7 @@ img {
   top: 0;
   left: 0;
   z-index: var(--z-fixed);
-  background-color: linear-gradient(to right, rgba(245, 245, 245, 0.13), rgba(245, 245, 245, .13)), url("https://sarakim323.github.io/assets/img/main.jpeg");
+  background-color: linear-gradient(to right, rgba(245, 245, 245, 0.13), rgba(245, 245, 245, .13)), url("https://sarakimpark.github.io/assets/img/main.jpeg");
   background-repeat: no-repeat;
   background-size: cover;
 }
@@ -295,7 +295,7 @@ img {
 /*===== HOME =====*/
 .home {
   /* background-color: #303030; */
-  background-image: linear-gradient(to right, rgba(245, 245, 245, 0.13), rgba(245, 245, 245, .13)), url("https://sarakim323.github.io/assets/img/main.jpeg");
+  background-image: linear-gradient(to right, rgba(245, 245, 245, 0.13), rgba(245, 245, 245, .13)), url("https://sarakimpark.github.io/assets/img/main.jpeg");
   background-repeat: no-repeat;
   background-size: cover;
   overflow: hidden;
